@@ -4,7 +4,7 @@
 I'm a creative developer who is passionate about motion and interaction design, and I specialise in writing highly performant animations using JavaScript. I am also interested in data science research, specifically in the field of Natural Language Processing.
 
 ### What am I doing now?
-Learning WebGL / ThreeJS, with physics based animations. Hit me up to rant about vertex shaders :P
+Learning WebGL / ThreeJS, with physics based animations. Hit me up to talk about shaders <3
 
 ### What can I do for you?
 I'm currently a Fellow at Major League Hacking, but I'm open to freelancing on exciting and innovative projects, preferably with a social impact.
