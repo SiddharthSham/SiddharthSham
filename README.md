@@ -1,10 +1,10 @@
 # Hey there! 👋
 
 ### Who am I?
-I'm a creative developer who is passionate about motion and interaction design, and I specialise in writing highly performant animations using JavaScript. I am also interested in data science research, specifically in the field of Natural Language Processing.
+I'm a creative freelance developer who is passionate about motion and interaction design, and I specialise in creating highly performant web experiences. I also enjoy working with Data Science, and wish to blend these two areas of interests.
 
 ### What am I doing now?
-A couple of things, including learning WebGL, with physics based animations. Hit me up to talk about shaders <3
+Freelance web development for agencies, companies and individuals around the globe, and improving my skills constantly.
 
 ### What can I do for you?
 I'm open to freelancing on exciting and innovative projects, with a focus on performance and great design!
