@@ -7,7 +7,7 @@ I'm a creative freelance developer who is passionate about motion and interactio
 - https://parampariyamsevatrust.org/
 - https://pulse.display.care/
 - https://display.care/
-- https://www.ariel.care/
+- https://ariel.care/
 
 ### How to get in touch with me?
 
