@@ -1,4 +1,4 @@
-I'm a creative freelance developer who is passionate about motion and interaction design, and I specialise in creating highly performant interactive web experiences. I'm open to exciting and innovative projects, with a focus on performance and great design!
+I'm a creative developer who is passionate about motion and interaction design, and I specialise in creating highly performant interactive web experiences. I'm open to exciting and innovative projects, with a focus on performance and great design!
 
 <table align="">
     <tr>
